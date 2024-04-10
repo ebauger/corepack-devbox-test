@@ -1,0 +1,13 @@
+{
+  "name": "thargetto",
+  "author": "HanstroniX°",
+  "version": "0.0.1",
+  "description": "Monorepo for Thargetto website, app and APIs",
+  "private": "true",
+  "type": "module",
+  "scripts": {},
+  "packageManager": "pnpm@8.15.6",
+  "engines": {
+    "pnpm": "^8.0.0"
+  }
+}
